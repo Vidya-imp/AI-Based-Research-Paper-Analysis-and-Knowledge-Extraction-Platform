@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+sentence-transformers
+PyPDF2
+pdfminer.six
+matplotlib
+plotly
+networkx
+wordcloud
+Pillow
